@@ -1,5 +1,7 @@
 # reaction-timer
 
+# TO BE FIXED
+
 ## Project setup
 ```
 npm install
